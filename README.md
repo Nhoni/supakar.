@@ -10,6 +10,4 @@ npm create vite@latest supakar --template react
 
 ## Analyse 
 
-On analyse le template (graphique ou html) de l'application à intégrer. Cela permettra de determiner les composants et la structure
-
-Import des medias
+On analyse le template (graphique ou html) de l'application à intégrer. Cela permettra de determiner les composants et la structu
